@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_1: "Hello"</string>
+    <string name="hello">Hello, world!</string>
+    <string name="show">Отобразить</string>
+</resources>
